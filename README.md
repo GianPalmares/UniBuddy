@@ -27,5 +27,6 @@ Future Enhancements
 Integration with university APIs for real-time information.
 Expansion of club suggestions based on additional user preferences.
 Improved natural language processing for a more conversational experience.
+
 Contribution
 Contributions to enhance and expand the functionality of UniBuddy are welcome. Feel free to submit issues or pull requests.

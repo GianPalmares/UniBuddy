@@ -1,3 +1,5 @@
+#UniBuddy
+
 UniBuddy - Personalized Chat Bot for University Guidance
 Overview
 UniBuddy is a personalized chat bot designed to assist university students, particularly freshmen, in navigating campus life. The chat bot engages users in a conversation, collecting information such as their name, age, and favorite color. Based on the user's favorite color, UniBuddy suggests relevant university clubs and activities to enhance their campus experience.
